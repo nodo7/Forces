@@ -1,0 +1,13 @@
+{
+    "name": "nacarqeqia/comos",
+    "description": "CST",
+    "authors": [],
+    "require": {
+        "symfony/var-dumper": "^4.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "CST\\": "src/"
+        }
+    }
+}
